@@ -1,11 +1,12 @@
-**
+==
 PROJECT 1 WRITEUP
 Go Fish Card Game -- C++ STL Edition
-
+==
 Course:    CSC17C - Data Structures C++
 Professor: Lehr
 Student:   Cesar
-Date:      Spring 2026**
+Date:      Spring 2026
+==
 
 
 
