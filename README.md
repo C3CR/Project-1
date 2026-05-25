@@ -1,5 +1,5 @@
 
-PROJECT 1 WRITEUP
+PROJECT 1 
 Go Fish Card Game -- C++ STL Edition
 ==
 Course:    CSC17C - Data Structures C++
