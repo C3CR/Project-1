@@ -1,6 +1,6 @@
 
 PROJECT 1 
-Go Fish Card Game -- C++ STL Edition
+Go Fish Card Game -- C++ 
 ==
 Course:    CSC17C - Data Structures C++
 Professor: Lehr
